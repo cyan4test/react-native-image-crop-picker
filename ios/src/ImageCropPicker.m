@@ -71,7 +71,7 @@ RCT_EXPORT_MODULE();
             @"forceJpg": @NO,
             @"sortOrder": @"none",
             @"cropperCancelText": @"Cancel",
-            @"cropperChooseText": @"Choose",
+            @"cropperChooseText": @"Solve",
             @"cropperRotateButtonsHidden": @NO
         };
         self.compression = [[Compression alloc] init];
